@@ -58,3 +58,21 @@
     margin: 0 20px 20px 0;
     color: #fff;
 }
+
+#contact .form input, #contact .form {
+    border-radius: 20em;
+}
+
+#contact {
+	padding: 60px 0;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,212,255,0.969625350140056) 0%, rgba(0,0,0,1) 51%, rgba(0,212,255,0.9444152661064426) 100%);
+}
+
+#contact .section-header h3, #contact .section-header p {
+    color: #fff;
+}
+
+.form-header {
+	color: #FFF;
+    padding: 20px;
+}
