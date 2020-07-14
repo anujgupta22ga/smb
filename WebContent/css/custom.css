@@ -1,0 +1,60 @@
+#header .logo img {
+    padding: 0;
+    margin: -23px 0;
+    max-height: 88px;
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 0;
+    text-align: justify;
+}
+
+#why-us .card {
+	margin: 0 0;
+	padding: 15px 10px;
+}
+
+.card-title {
+	font-weight: 600;
+}
+
+.how-works-img{
+	margin-bottom: 1em;
+}
+
+/*------------ Pricing ------------- */
+#pricing{
+	padding: 100px 0;
+    background: rgb(98, 204, 228);
+}
+
+#pricing .section-header h3, #pricing .section-header p {
+    color: #fff;
+}
+.section-header h3 {
+    font-size: 36px;
+    color: #283d50;
+    text-align: center;
+    font-weight: 500;
+    position: relative;
+}
+
+.btn-pricing {
+    background: #007bff;
+    border: 2px solid #007bff;
+    color: #fff;
+}
+
+.btn-pricing {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin: 0 20px 20px 0;
+    color: #fff;
+}
